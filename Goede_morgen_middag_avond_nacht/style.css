@@ -1,0 +1,20 @@
+h1{
+  color: white;
+  font-family: 'VT323', monospace;
+  text-align: center;
+  font-size: 50px;
+  margin-top: 350px;
+}
+
+.morning{
+  background-image: url(img/morning.png);
+}
+.evening{
+  background-image: url(img/evening.png);
+}
+.afternoon{
+  background-image: url(img/afternoon.png);
+}
+.night{
+  background-image: url(img/night.png);
+}
